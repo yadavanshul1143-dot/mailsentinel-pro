@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+analyses.db
+forensic_report.html
+.env

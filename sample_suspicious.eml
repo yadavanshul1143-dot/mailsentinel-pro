@@ -1,0 +1,9 @@
+From: Security Team <security@example.com>
+Reply-To: verify-account@other-example.net
+Subject: URGENT: Verify your account immediately
+Date: Fri, 04 Sep 2026 09:00:00 +0530
+Message-ID: <demo@example.com>
+Authentication-Results: mx.example; spf=fail; dkim=fail; dmarc=fail
+
+Your account has been suspended. Click here to verify your account and reset your password:
+http://example.com/login/verify
